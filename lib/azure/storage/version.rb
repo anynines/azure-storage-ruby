@@ -29,7 +29,7 @@ module Azure
       MAJOR = 0 unless defined? MAJOR
       MINOR = 11 unless defined? MINOR
       UPDATE = 5 unless defined? UPDATE
-      PRE = 'preview' unless defined? PRE
+      PRE = 'anynines' unless defined? PRE
 
       class << self
         # @return [String]
